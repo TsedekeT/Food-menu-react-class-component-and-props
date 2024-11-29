@@ -1,0 +1,38 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer a {
+    color: #ff8c00;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
+  .order-button {
+    background-color: #ff8c00;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .order-button:hover {
+    background-color: #e07600;
+  }
+  
