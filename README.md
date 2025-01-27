@@ -1,4 +1,4 @@
-# MyFood-Menu-Class-Component-and-Props
+# Food-menu-mlass-component-and-props
 
 ### A dynamic food menu app built with React Class Components and Props, demonstrating data passing and UI state management.
 
